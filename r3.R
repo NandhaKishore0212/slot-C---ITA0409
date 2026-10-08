@@ -1,0 +1,6 @@
+
+a <- 1:24
+
+arr <- array(a, dim = c(2, 3, 4))
+
+arr
